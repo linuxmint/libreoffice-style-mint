@@ -1,0 +1,10 @@
+#!/usr/bin/make -f
+
+%:
+	dh ${@}
+
+override_dh_auto_build:
+	zip -r images_human.zip images_human/
+
+override_dh_builddeb:
+	dh_builddeb -- -Zxz -z9
