@@ -218,6 +218,10 @@ cmd/lc_texttoolbox.png cmd/lc_text.png
 cmd/lc_thesaurusdialog.png cmd/lc_thesaurus.png
 cmd/lc_view100.png cmd/lc_zoom100percent.png
 cmd/lc_zoomplus.png cmd/lc_zoomin.png
+cmd/lc_insertcolumnsbefore.png
+cmd/lc_insertrowsbefore.png
+cmd/lc_saveasremote.png
+cmd/lc_toggletabbarvisibility.png
 cmd/nl/lc_bold.png cmd/lc_bold.png
 cmd/nl/lc_italic.png cmd/lc_italic.png
 cmd/nl/lc_underlinedouble.png cmd/lc_underlinedouble.png
@@ -363,6 +367,11 @@ cmd/sc_thesaurusdialog.png cmd/sc_thesaurus.png
 cmd/sc_timefield.png cmd/sc_inserttimefield.png
 cmd/sc_togglemergecells.png cmd/sc_mergecells.png
 cmd/sc_zoomtoolbox.png cmd/sc_zoom.png
+cmd/sc_insertcolumnsbefore.png
+cmd/sc_insertrowsbefore.png
+cmd/sc_openremote.png
+cmd/sc_saveasremote.png
+cmd/sc_toggletabbarvisibility.png
 cmd/sk/lc_bold.png cmd/lc_bold.png
 cmd/sk/lc_italic.png cmd/lc_italic.png
 cmd/sk/lc_underlinedouble.png cmd/lc_underlinedouble.png
@@ -411,6 +420,8 @@ extensions/source/scanner/plus.png sfx2/res/plus.png
 formula/res/fx.png cmd/sc_insertformula.png
 fpicker/res/fp011.png res/sc06303.png
 fpicker/res/fp014.png res/newdoc.png
+framework/res/recent-documents.png
+framework/res/remote-documents.png
 reportdesign/res/sc30768.png cmd/sc_upsearch.png
 reportdesign/res/sc30769.png cmd/sc_downsearch.png
 reportdesign/res/sx12594.png cmd/sc_insertformula.png
@@ -479,6 +490,9 @@ res/sx03250.png res/ods_16_8.png
 res/sx03251.png res/odt_16_8.png
 res/sx03256.png cmd/sc_addons.png
 res/sx03256.png desktop/res/extension_16.png
+res/folderop.png
+res/savemodified_large.png
+res/savemodified_small.png
 sch/res/lc30514.png cmd/lc_viewdatasourcebrowser.png
 sch/res/sc30514.png cmd/sc_viewdatasourcebrowser.png
 sch/res/sc30528.png cmd/sc_diagramtype.png
@@ -507,6 +521,8 @@ sc/res/sf02.png sw/imglst/sf04.png
 sc/res/table.png cmd/sc_inserttable.png
 sc/res/text.png cmd/sc_text.png
 sc/res/time.png cmd/lc_timefield.png
+sc/res/date.png
+sc/res/time.png
 sd/imglst/lc05928.png cmd/lc_autoformat.png
 sd/imglst/lc27015.png cmd/lc_importfromfile.png
 sd/imglst/lc27017.png cmd/lc_zoompanning.png
@@ -643,6 +659,7 @@ sw/res/one_right.png cmd/sc_navigateforward.png
 sw/res/sidebar/pageproppanel/last_custom_common_grey.png svx/res/symphony/last_custom_common_grey.png
 sw/res/sidebar/pageproppanel/last_custom_common.png svx/res/symphony/last_custom_common.png
 sw/res/styfamnu.png sw/imglst/sf05.png
+sw/imglst/sr20014.png
 vcl/res/closedoc.png sfx2/res/closedoc.png
 vcl/source/src/msgbox.png vcl/res/msgbox.png
 xmlsecurity/res/signet_11x16.png svx/res/signet_11x16.png
