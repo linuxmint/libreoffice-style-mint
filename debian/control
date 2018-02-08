@@ -10,6 +10,7 @@ Breaks: mint-themes (<< 1.4.6)
 Replaces: mint-themes (<< 1.4.6)
 Conflicts: libreoffice-style-human
 Provides: libreoffice-style, libreoffice-style-default
+Depends: libreoffice-style-sifr
 Architecture: all
 Description: Linux Mint theme for LibreOffice.org
  A collection of pictures and icons used in LibreOffice.org.

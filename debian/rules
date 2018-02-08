@@ -2,10 +2,3 @@
 
 %:
 	dh ${@}
-
-override_dh_auto_build:
-	cd images_human && zip -r images_human.zip *
-	mv images_human/images_human.zip ./
-
-override_dh_builddeb:
-	dh_builddeb -- -Zxz -z9
